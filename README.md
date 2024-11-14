@@ -1,6 +1,6 @@
 # yolo
 #前景提要:  
-yolo人气猫有一个易语言用的yolo模块（模块地址:https://jiemowang.lanzouo.com/iiAs62f1ehhc ，里面有使用的例子）,但是这个模块调用只支持ncnn模型,并且不是原生的yolo转ncnn模型, 而是他根据网上一些大佬的步骤改写的pt转ncnn模型,所以才有本项目来搞个专门的转换类型的环境, 目的是为了方便使用。   
+yolo人气猫有一个易语言用的yolo模块（模块地址:https://jiemowang.lanzouo.com/iiAs62f1ehhc ，里面有使用的例子）,但是这个模块调用只支持ncnn模型,并且不是原生的yolo转ncnn模型, 而是他根据网上一些大佬的步骤改写的pt转ncnn模型,所以才有本项目来搞个专门的转换类型的环境, 目的是为了方便使用，参考的帖子地址：https://zhuanlan.zhihu.com/p/769076635。   
 
 下面是本项目的使用说明: 
 使用方法, 首先是前激活环境, 然后按照以下步骤操作:   
