@@ -11,9 +11,8 @@ conda activate yolov10
 3.克隆项目  
 git clone  https://github.com/wg521125/yolo.git     
 4.移动到改目录  
-cd yolo 
+cd yolo     
 5.安装本项目    
-
 pip install -e .    
 6.安装另外需要的依赖,requirements.txt这个文件在项目根目录下,可用直接使用    
 pip install -r requirements.txt  
