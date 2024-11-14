@@ -1,6 +1,6 @@
 # yolo
 yolo人气猫的pt转ncnn模型    
-使用方法,   
+使用方法, 首先是前激活环境, 然后按照以下步骤操作:
 1.克隆项目  
 git clone  https://github.com/wg521125/yolo.git 
 2.移动到改目录  
