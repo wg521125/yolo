@@ -9,9 +9,8 @@ cd yolo
 3.安装本项目    
 pip install -e .    
 4.安装另外需要的依赖    
-pip install -r requirements.txt 
+pip install -r requirements.txt  
 5.pt模型转onnx模型,都是cmd命令行操作,注意修改路径
-  
 yolo export model=bestv11.pt format=onnx    
-6.onnx模型转ncnn模型,都是cmd命令行操作,注意修改路径 
+6.onnx模型转ncnn模型,都是cmd命令行操作,注意修改路径  
 pnnx bestv11.onnx  inputshape=[1,3,640,640] 
