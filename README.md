@@ -5,7 +5,7 @@ yolo人气猫有一个易语言用的yolo模块,调用只支持ncnn模型,并且
 下面是本项目的使用说明: 
 使用方法, 首先是前激活环境, 然后按照以下步骤操作:   
 1.创建虚拟环境,环境名字可用自己喜欢的,比如yolov10    
-conda create -n yolov10 python=3.12 
+conda create -n yolov10 python=3.12  
 2.激活虚拟环境  
 conda activate yolov10  
 3.克隆项目  
