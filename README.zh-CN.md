@@ -1,5 +1,5 @@
 # yolo
-#前景提要:
+#前景提要:  
 yolo人气猫有一个易语言用的yolo模块,调用只支持ncnn模型,并且不是原生的yolo转ncnn模型, 
 而是他根据网上一些大佬的步骤改写的pt转ncnn模型,所以才有本项目来搞个专门的转换类型的环境,  
 下面是易语言可用的人气猫的yolo模块地址:https://jiemowang.lanzouo.com/iiAs62f1ehhc, 里面有使用的例子。   
