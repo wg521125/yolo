@@ -35,7 +35,7 @@ scipy==1.14.1
 seaborn==0.13.2
 setuptools==75.1.0
 six==1.16.0
-sympy==1.13.1
+sympy==1.13.3
 torch==2.5.1
 torchvision==0.20.1
 tqdm==4.67.0
