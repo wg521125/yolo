@@ -21,7 +21,7 @@ packaging==24.2
 pandas==2.2.3
 pillow==11.0.0
 pnnx==20240819
-portalocker==2.10.1
+portalocker==3.0.0
 protobuf==5.28.3
 psutil==6.1.0
 py-cpuinfo==9.0.0
