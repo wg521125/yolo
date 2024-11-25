@@ -33,7 +33,7 @@ PyYAML==6.0.2
 requests==2.32.3
 scipy==1.14.1
 seaborn==0.13.2
-setuptools==75.1.0
+setuptools==75.6.0
 six==1.16.0
 sympy==1.13.1
 torch==2.5.1
