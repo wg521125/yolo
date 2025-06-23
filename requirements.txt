@@ -42,7 +42,7 @@ tqdm==4.67.0
 typing_extensions==4.12.2
 tzdata==2024.2
 ultralytics-thop==2.0.11
-urllib3==2.2.3
+urllib3==2.5.0
 wheel==0.44.0
 
 
