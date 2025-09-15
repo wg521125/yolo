@@ -20,7 +20,7 @@ opencv-python==4.10.0.84
 packaging==24.2
 pandas==2.2.3
 pillow==11.0.0
-pnnx==20240819
+pnnx==20250912
 portalocker==2.10.1
 protobuf==5.28.3
 psutil==6.1.0
