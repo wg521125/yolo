@@ -25,7 +25,7 @@ portalocker==2.10.1
 protobuf==5.28.3
 psutil==6.1.0
 py-cpuinfo==9.0.0
-pyparsing==3.2.0
+pyparsing==3.2.5
 python-dateutil==2.9.0.post0
 pytz==2024.2
 pywin32==308
